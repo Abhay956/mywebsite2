@@ -20,7 +20,7 @@ oc get svc
 oc expose svc myweb
 ```
 then copy route host port and past in brower.
-out look like this....
+output look like this....
 ![image](https://github.com/Abhay956/mywebsite2/assets/132220412/f2202599-18c8-439b-be5c-7b8a68c1e601)
 
 #### now time to change code change background image link and text of this is version1 change as version2 then apply this command.
