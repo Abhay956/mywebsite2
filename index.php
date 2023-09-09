@@ -10,7 +10,7 @@
 body,h1 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 .bgimg {
-  background-image: url('https://wallpapers.com/images/hd/lush-green-forest-neblzag5t76yolal.webp');
+  background-image: url('https://wallpapers.com/images/hd/coniferous-forest-lake-bub7kqwrdxapq1t8.webp');
   min-height: 100%;
   background-position: center;
   background-size: cover;
@@ -24,7 +24,7 @@ body, html {height: 100%}
     KUCL
   </div>
   <div class="w3-display-middle">
-    <h1 class="w3-jumbo w3-animate-top">This is version 2</h1>
+    <h1 class="w3-jumbo w3-animate-top">This is version 1</h1>
     <hr class="w3-border-grey" style="margin:auto;width:40%">
     <p class="w3-large w3-center">abhaypande855@gmail.com</p>
   </div>
