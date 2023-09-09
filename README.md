@@ -1,5 +1,5 @@
 
-# example of CI/CD of OpenShift
+# example of CI/CD in OpenShift
 ![image](https://github.com/Abhay956/mywebsite2/assets/132220412/a3bcfebe-f91b-47e3-892a-7cd1b7445cd7)
 
 
